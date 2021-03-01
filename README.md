@@ -1,7 +1,4 @@
-### Hi there 👋
-
-
-Here are some ideas to get you started:
+Hi there 👋
 
 - 🔭 I’m currently working on a Android Project
 - 🌱 I’m currently learning Computer Networks
