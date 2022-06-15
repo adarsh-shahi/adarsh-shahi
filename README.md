@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Blogging Rest API's](https://github.com/mr-Harsh-Kumar-Jha/Rest-Api-s)
 
-- 👯 I’m looking to collaborate on **Node JS**
+- 👯 I’m looking to collaborate on **building RESTful API's**
 
 - 📫 How to reach me **adarshshahi1009@gmail.com**
 
