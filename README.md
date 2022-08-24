@@ -25,3 +25,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adarsh-shahi&" alt="adarsh-shahi" /></p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adarsh-shahi&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adarsh-shahi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
