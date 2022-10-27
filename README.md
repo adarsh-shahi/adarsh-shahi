@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adarsh Shahi</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adarsh-shahi&label=Profile%20views&color=0e75b6&style=flat" alt="adarsh-shahi" /> </p>
-
 - 🔭 I’m currently working on [Blogging Rest API's](https://github.com/mr-Harsh-Kumar-Jha/Rest-Api-s)
 
 - 👯 I’m looking to collaborate on **building RESTful API's**
