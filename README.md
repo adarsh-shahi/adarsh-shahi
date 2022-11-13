@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adarsh Shahi</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-- 🔭 I’m currently working on [Blogging Rest API's](https://github.com/mr-Harsh-Kumar-Jha/Rest-Api-s)
+- 🔭 I’m currently working on [Natours site - learning some advance css](https://github.com/adarsh-shahi/natours)
 
 - 👯 I’m looking to collaborate on **building RESTful API's**
 
