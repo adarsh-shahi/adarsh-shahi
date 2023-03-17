@@ -22,10 +22,10 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adarsh-shahi&show_icons=true&locale=en&layout=compact" alt="adarsh-shahi" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adarsh-shahi&show_icons=true&locale=en&layout=compact&theme=onedark" alt="adarsh-shahi" /></p>
 
 <p>&nbsp;<img align="center" src=https://github-readme-stats.vercel.app/api?username=adarsh-shahi&show_icons=true&theme=onedark /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adarsh-shahi&" alt="adarsh-shahi" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adarsh-shahi&theme=onedark" alt="adarsh-shahi" /></p>
 
 
