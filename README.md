@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Tutor](https://github.com/adarsh-shahi/tutor-api)
 
-- 👯 I’m looking to collaborate on **React**
+- 👯 I’m looking to collaborate on **React*
 
 - 💬 Ask me about **Typescript, React, Hooks**
 
